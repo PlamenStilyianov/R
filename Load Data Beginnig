@@ -1,0 +1,4 @@
+ 
+> getwd()
+[1] "/home/orajava"
+> load("Beginning.RData")
